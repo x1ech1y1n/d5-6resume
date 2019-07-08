@@ -1,0 +1,21 @@
+.h3-class{
+    display: inline;
+}
+.h3-class-height{
+    line-height: 1px;
+}
+
+#zuobian{
+    float: left;
+    width: 200px;
+    height: 780px;
+    background-color: cornflowerblue;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top:50px;
+}
+#youbian{
+    margin-left: 30px;
+    float: left;
+}
